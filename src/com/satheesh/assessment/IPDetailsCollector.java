@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.africanbank.assessment;
+package com.satheesh.assessment;
 
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
